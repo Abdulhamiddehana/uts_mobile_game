@@ -19,7 +19,7 @@ Aplikasi ini dikembangkan menggunakan **Flutter** dan bahasa pemrograman **Dart*
 ## Langkah Menjalankan Aplikasi
 1. Pastikan Anda telah menginstal Flutter SDK dan Dart di perangkat Anda.
 2. *Clone* repositori ini ke komputer Anda:
-   `git clone [MASUKKAN_LINK_GITHUB_KAMU_NANTI_DI_SINI]`
+   `git clone https://github.com/Abdulhamiddehana/uts_mobile_game`
 3. Masuk ke direktori aplikasi:
    `cd uts_mobile_game`
 4. Unduh semua *package* dependensi yang dibutuhkan dengan menjalankan:
